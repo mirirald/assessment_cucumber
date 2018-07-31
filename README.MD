@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You need to have on your computer
 ```
-git clone https://github.com/mirirald/grand-parade-cucumber.git
+git
 maven
 java 1.8 // I use lambda expression in the PageObject
 ```
@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development env run
 Clone the project from github
 
 ```
-git clone
+git clone https://github.com/mirirald/grand-parade-cucumber.git
 ```
 
 Build it and go !
