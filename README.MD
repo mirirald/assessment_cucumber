@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You need to have on your computer
 ```
-git
+git clone https://github.com/mirirald/grand-parade-cucumber.git
 maven
 java 1.8 // I use lambda expression in the PageObject
 ```
