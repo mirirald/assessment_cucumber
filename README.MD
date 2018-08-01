@@ -32,8 +32,6 @@ mvn clean verify --no-plugin-updates -Dstake=0.18
 Here you can change the value of "stake", if there is no attribute, it's by default 0.05
 
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Misc
 
 It's possible to launch the test for an emulated mobile by uncommenting some lines in Hook.java
