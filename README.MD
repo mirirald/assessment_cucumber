@@ -52,5 +52,5 @@ target/cucumber-html-reports
 
 ## Author
 
-* **Alex BOULANGER** - [mirirald](https://github.com/mirirald)
+* [mirirald](https://github.com/mirirald)
 
