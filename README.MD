@@ -1,6 +1,6 @@
 # Project Title
 
-Assessment Test from Grand Parade
+Assessment Test
 
 ## Getting Started
 
